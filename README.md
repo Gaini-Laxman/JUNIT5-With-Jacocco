@@ -39,6 +39,12 @@ public class PalidromeTest {
 =======================================================================================================
 ![image](https://github.com/user-attachments/assets/1b2feefd-0f29-4ee1-885c-7f91c68cdd11)
 
+Sonar Qube  :  mvn sonar:sonar -Dsonar.login=admin -Dsonar.password=password
+
+![image](https://github.com/user-attachments/assets/27702628-6a6d-472f-ad42-435ebce8830e)
+==========================================================================================
+
+![image](https://github.com/user-attachments/assets/47bf6399-a54a-4e46-a580-2a3ac3fdc981)
 
 
 
