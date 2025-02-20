@@ -1,6 +1,7 @@
 package com.javafullstackguru;
 
 //Open cmd in project location and give command : [ mvn test jacoco:report ] add jacocco plugin
+// mvn sonar:sonar -Dsonar.login=admin -Dsonar.password=password
 
 
 import org.springframework.boot.SpringApplication;

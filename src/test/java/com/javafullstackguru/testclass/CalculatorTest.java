@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 import com.javafullstackguru.unitTestCases.Calculator;
 
 //Open cmd in project location and give command : [ mvn test jacoco:report ] add jacocco plugin
+// mvn sonar:sonar -Dsonar.login=admin -Dsonar.password=password
 
 public class CalculatorTest {
 	

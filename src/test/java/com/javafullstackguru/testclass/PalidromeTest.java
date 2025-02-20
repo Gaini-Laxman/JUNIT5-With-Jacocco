@@ -6,6 +6,8 @@ import org.junit.jupiter.params.provider.ValueSource;
 import com.javafullstackguru.unitTestCases.PalidromeCheck;
 
 //Open cmd in project location and give command : [ mvn test jacoco:report ] add jacocco plugin
+// mvn sonar:sonar -Dsonar.login=admin -Dsonar.password=password
+
 
 public class PalidromeTest {
 	
